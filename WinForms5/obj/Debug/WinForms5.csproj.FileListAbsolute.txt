@@ -1,0 +1,11 @@
+C:\Users\Alsu\source\repos\WinForms5\WinForms5\bin\Debug\WinForms5.exe.config
+C:\Users\Alsu\source\repos\WinForms5\WinForms5\bin\Debug\WinForms5.exe
+C:\Users\Alsu\source\repos\WinForms5\WinForms5\bin\Debug\WinForms5.pdb
+C:\Users\Alsu\source\repos\WinForms5\WinForms5\obj\Debug\WinForms5.csprojAssemblyReference.cache
+C:\Users\Alsu\source\repos\WinForms5\WinForms5\obj\Debug\WinForms5.Form1.resources
+C:\Users\Alsu\source\repos\WinForms5\WinForms5\obj\Debug\WinForms5.Properties.Resources.resources
+C:\Users\Alsu\source\repos\WinForms5\WinForms5\obj\Debug\WinForms5.csproj.GenerateResource.cache
+C:\Users\Alsu\source\repos\WinForms5\WinForms5\obj\Debug\WinForms5.csproj.CoreCompileInputs.cache
+C:\Users\Alsu\source\repos\WinForms5\WinForms5\obj\Debug\WinForms5.exe
+C:\Users\Alsu\source\repos\WinForms5\WinForms5\obj\Debug\WinForms5.pdb
+C:\Users\Alsu\source\repos\WinForms5\WinForms5\obj\Debug\WinForms5.Form2.resources
